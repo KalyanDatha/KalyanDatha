@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KalyanDatha
 - 👀 I’m interested in working with code
-- 🌱 I’m currently learning 
+- 🌱 I’m currently Exploring current Techs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
